@@ -9,3 +9,8 @@ Este es mi repositorio para clase de **metodos y tecnicas de la UMC**
 [Un enlace interno](#unenlaceyotro)
 
 ### Un enlace. Y otro
+
+
+## Issues
+
+Acepto cualquier tipo de propuesta para mejorar mi repositorio ^^
